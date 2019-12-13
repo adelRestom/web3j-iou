@@ -1,0 +1,274 @@
+[INFO ] 2019-12-05T04:40:37,038Z [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/generated-custom-cordapps/20191205-044034.639/custom-cordapp_1_4_c91d6fd3-60ce-4d28-81a3-71614e37d321.jar, rootPackageName=null) {}
+[INFO ] 2019-12-05T04:40:37,277Z [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/generated-custom-cordapps/20191205-044034.639/custom-cordapp_1_4_c91d6fd3-60ce-4d28-81a3-71614e37d321.jar {}
+[INFO ] 2019-12-05T04:40:45,213Z [Test worker] internal.TestCordappImpl.apply - Generating CorDapp jar from local project in /home/adel/corda/articles/web3j-iou/workflows ... {}
+[INFO ] 2019-12-05T04:40:45,608Z [Connection worker] internal.TestCordappImpl.statusChanged - Build {}
+[INFO ] 2019-12-05T04:40:48,209Z [Connection worker] internal.TestCordappImpl.statusChanged - Starting Gradle Daemon {}
+[INFO ] 2019-12-05T04:40:50,163Z [Connection worker] internal.TestCordappImpl.statusChanged - Connecting to Gradle Daemon {}
+[INFO ] 2019-12-05T04:40:50,217Z [Connection worker] internal.TestCordappImpl.statusChanged - Starting Gradle Daemon {}
+[INFO ] 2019-12-05T04:40:50,221Z [Connection worker] internal.TestCordappImpl.statusChanged - Build {}
+[INFO ] 2019-12-05T04:40:51,295Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:51,347Z [Connection worker] internal.TestCordappImpl.statusChanged - Evaluate settings {}
+[INFO ] 2019-12-05T04:40:52,319Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:52,343Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure build {}
+[INFO ] 2019-12-05T04:40:52,343Z [Connection worker] internal.TestCordappImpl.statusChanged - Load projects {}
+[INFO ] 2019-12-05T04:40:52,634Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure build {}
+[INFO ] 2019-12-05T04:40:52,655Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure project : {}
+[INFO ] 2019-12-05T04:40:53,715Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :classpath {}
+[INFO ] 2019-12-05T04:40:54,142Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure project : {}
+[INFO ] 2019-12-05T04:40:54,163Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :classpath {}
+[INFO ] 2019-12-05T04:40:54,250Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure project : {}
+[INFO ] 2019-12-05T04:40:54,251Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :classpath {}
+[INFO ] 2019-12-05T04:40:54,251Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure project : {}
+[INFO ] 2019-12-05T04:40:57,015Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure build {}
+[INFO ] 2019-12-05T04:40:57,015Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure project :clients {}
+[INFO ] 2019-12-05T04:40:57,055Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure build {}
+[INFO ] 2019-12-05T04:40:57,055Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure project :contracts {}
+[INFO ] 2019-12-05T04:40:57,098Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure build {}
+[INFO ] 2019-12-05T04:40:57,098Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure project :workflows {}
+[INFO ] 2019-12-05T04:40:57,152Z [Connection worker] internal.TestCordappImpl.statusChanged - Configure build {}
+[INFO ] 2019-12-05T04:40:57,163Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:57,391Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :workflows:kotlinCompilerClasspath {}
+[INFO ] 2019-12-05T04:40:57,412Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:57,412Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:kotlinCompilerClasspath {}
+[INFO ] 2019-12-05T04:40:57,427Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:57,447Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :contracts:kotlinCompilerClasspath {}
+[INFO ] 2019-12-05T04:40:57,453Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:57,453Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :contracts:kotlinCompilerClasspath {}
+[INFO ] 2019-12-05T04:40:57,453Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:57,474Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:57,536Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:57,547Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :contracts:kotlinCompilerClasspath {}
+[INFO ] 2019-12-05T04:40:57,547Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:57,704Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :contracts:kotlinCompilerPluginClasspath {}
+[INFO ] 2019-12-05T04:40:57,736Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:57,736Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :contracts:kotlinCompilerPluginClasspath {}
+[INFO ] 2019-12-05T04:40:57,736Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:57,746Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2019-12-05T04:40:57,840Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:57,841Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2019-12-05T04:40:57,873Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:58,643Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2019-12-05T04:40:58,643Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:58,665Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :contracts:kotlinCompilerPluginClasspath {}
+[INFO ] 2019-12-05T04:40:58,665Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileKotlin {}
+[INFO ] 2019-12-05T04:40:58,727Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:58,737Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:compileJava {}
+[INFO ] 2019-12-05T04:40:58,748Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:58,748Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:processResources {}
+[INFO ] 2019-12-05T04:40:58,749Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:58,749Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:classes {}
+[INFO ] 2019-12-05T04:40:58,749Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:58,750Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:58,769Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2019-12-05T04:40:58,848Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:58,849Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :contracts:runtime {}
+[INFO ] 2019-12-05T04:40:58,869Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:58,879Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:58,880Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:inspectClassesForKotlinIC {}
+[INFO ] 2019-12-05T04:40:58,890Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:58,890Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :contracts:jar {}
+[INFO ] 2019-12-05T04:40:58,923Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:58,924Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:58,924Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:kotlinCompilerClasspath {}
+[INFO ] 2019-12-05T04:40:58,925Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:58,932Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :workflows:kotlinCompilerPluginClasspath {}
+[INFO ] 2019-12-05T04:40:58,953Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:58,954Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:kotlinCompilerPluginClasspath {}
+[INFO ] 2019-12-05T04:40:58,954Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:58,955Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2019-12-05T04:40:59,008Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:59,008Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2019-12-05T04:40:59,009Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:59,009Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2019-12-05T04:40:59,009Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:59,018Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:kotlinCompilerPluginClasspath {}
+[INFO ] 2019-12-05T04:40:59,019Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileKotlin {}
+[INFO ] 2019-12-05T04:40:59,019Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:59,019Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:compileJava {}
+[INFO ] 2019-12-05T04:40:59,029Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:59,029Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:processResources {}
+[INFO ] 2019-12-05T04:40:59,040Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:59,040Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:classes {}
+[INFO ] 2019-12-05T04:40:59,041Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:59,041Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:59,050Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2019-12-05T04:40:59,114Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:59,115Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:runtime {}
+[INFO ] 2019-12-05T04:40:59,125Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:59,129Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:runtime {}
+[INFO ] 2019-12-05T04:40:59,129Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:59,130Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:runtime {}
+[INFO ] 2019-12-05T04:40:59,130Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:59,131Z [Connection worker] internal.TestCordappImpl.statusChanged - Resolve files of :workflows:runtime {}
+[INFO ] 2019-12-05T04:40:59,131Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:configureCordappFatJar {}
+[INFO ] 2019-12-05T04:40:59,135Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:59,137Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:inspectClassesForKotlinIC {}
+[INFO ] 2019-12-05T04:40:59,147Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:59,147Z [Connection worker] internal.TestCordappImpl.statusChanged - Task :workflows:jar {}
+[INFO ] 2019-12-05T04:40:59,173Z [Connection worker] internal.TestCordappImpl.statusChanged - Run tasks {}
+[INFO ] 2019-12-05T04:40:59,194Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:59,245Z [Connection worker] internal.TestCordappImpl.statusChanged - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2019-12-05T04:40:59,246Z [Connection worker] internal.TestCordappImpl.statusChanged - Run build {}
+[INFO ] 2019-12-05T04:40:59,268Z [Connection worker] internal.TestCordappImpl.statusChanged - Build {}
+[INFO ] 2019-12-05T04:40:59,301Z [Connection worker] internal.TestCordappImpl.statusChanged - Deleting unused version-specific caches in /home/adel/corda/articles/web3j-iou/.gradle {}
+[INFO ] 2019-12-05T04:40:59,302Z [Connection worker] internal.TestCordappImpl.statusChanged - Build {}
+[INFO ] 2019-12-05T04:40:59,340Z [Connection worker] internal.TestCordappImpl.statusChanged -  {}
+[INFO ] 2019-12-05T04:40:59,597Z [Test worker] cordapp.JarScanningCordappLoader.fromDirectories - Looking for CorDapps in [build/mock-network/20191205-044041.053/nodes/0/cordapps] {}
+[INFO ] 2019-12-05T04:40:59,603Z [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/0/cordapps/workflows-0.1-SNAPSHOT.jar, rootPackageName=null), RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/0/cordapps/contracts-0.1-SNAPSHOT.jar, rootPackageName=null) {}
+[INFO ] 2019-12-05T04:40:59,628Z [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/0/cordapps/workflows-0.1-SNAPSHOT.jar {}
+[INFO ] 2019-12-05T04:40:59,655Z [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/0/cordapps/contracts-0.1-SNAPSHOT.jar {}
+[WARN ] 2019-12-05T04:40:59,679Z [Test worker] cordapp.CordappResolver.warnOnce - More than one CorDapp registered for contract com.example.contracts.IOUContract. {}
+[INFO ] 2019-12-05T04:41:00,756Z [Test worker] internal.InternalMockNetwork$MockNode.start - Node starting up ... {}
+[INFO ] 2019-12-05T04:41:00,844Z [Test worker] internal.NodeFlowManager.registerInitiatedFlow - Registered com.example.flows.ExampleFlow$Initiator to initiate com.example.flows.ExampleFlow$Acceptor (version 1) {}
+[INFO ] 2019-12-05T04:41:01,640Z [Test worker] internal.InternalMockNetwork$MockNode.start - Loaded network parameters: NetworkParameters {
+      minimumPlatformVersion=1
+      notaries=[NotaryInfo(identity=O=Notary Service, L=Zurich, C=CH, validating=true)]
+      maxMessageSize=10485760
+      maxTransactionSize=524288000
+      whitelistedContractImplementations {
+        
+      }
+      eventHorizon=PT720H
+      packageOwnership {
+        
+      }
+      modifiedTime=2019-12-05T04:40:41.030Z
+      epoch=1
+  } {}
+[INFO ] 2019-12-05T04:41:08,598Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Start executing... {}
+[INFO ] 2019-12-05T04:41:08,606Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Attachment version creation from whitelisted JARs using network parameters from build/mock-network/20191205-044041.053/nodes/0/network-parameters, whitelistedContractImplementations: {}. {}
+[INFO ] 2019-12-05T04:41:08,607Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Attachment version creation from whitelisted JARs skipped, no attachments not found. {}
+[INFO ] 2019-12-05T04:41:08,609Z [Test worker] migration.VaultStateMigration.execute - Migrating vault state data to V4 tables {}
+[INFO ] 2019-12-05T04:41:08,745Z [Test worker] persistence.HibernateConfiguration.<init> - Init HibernateConfiguration for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:08,752Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Creating session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:12,398Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Created session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:13,701Z [Test worker] migration.VaultStateMigration.execute - Finished performing vault state data migration for 0 states {}
+[INFO ] 2019-12-05T04:41:13,857Z [Test worker] internal.InternalMockNetwork$MockNode.invoke - Connected to H2 database. {}
+[INFO ] 2019-12-05T04:41:13,894Z [Test worker] persistence.HibernateConfiguration.<init> - Init HibernateConfiguration for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1), NodeNotarySchemaV1(name=net.corda.node.services.transactions.NodeNotarySchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:13,895Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Creating session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1), NodeNotarySchemaV1(name=net.corda.node.services.transactions.NodeNotarySchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:14,646Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Created session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1), NodeNotarySchemaV1(name=net.corda.node.services.transactions.NodeNotarySchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:14,681Z [Test worker] internal.InternalMockNetwork$MockNode.updateNodeInfo - Node-info has changed so submitting update. Old node-info was null {}
+[INFO ] 2019-12-05T04:41:14,683Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:14,695Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:15,127Z [Test worker] internal.InternalMockNetwork$MockNode.updateNodeInfo - New node-info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:15,327Z [Test worker] network.NetworkMapUpdater.apply - Auto-accept enabled for network parameter changes which modify only: [epoch, modifiedTime, packageOwnership, whitelistedContractImplementations] {}
+[INFO ] 2019-12-05T04:41:15,380Z [MockNode-1-2] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:15,436Z [MockNode-1-2] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:15,487Z [Test worker] persistence.NodeAttachmentService.invoke - Stored new attachment: id=6E96D0A6269B2131CBE8BC9778BCB27A30D998B4205311ADFE1A862504DBED26 uploader=app filename=null {}
+[INFO ] 2019-12-05T04:41:15,495Z [Test worker] utilities.NotaryLoader.loadService - Starting notary service: class net.corda.node.services.transactions.SimpleNotaryService {}
+[INFO ] 2019-12-05T04:41:15,502Z [Test worker] notary.SinglePartyNotaryService.<init> - Starting notary in validating mode {}
+[INFO ] 2019-12-05T04:41:16,397Z [Test worker] statemachine.SingleThreadedStateMachineManager.invoke - Node ready, info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:16,426Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:16,429Z [Test worker] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:16,429Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:16,429Z [Test worker] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:16,440Z [Test worker] cordapp.JarScanningCordappLoader.fromDirectories - Looking for CorDapps in [build/mock-network/20191205-044041.053/nodes/1/cordapps] {}
+[INFO ] 2019-12-05T04:41:16,441Z [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/1/cordapps/workflows-0.1-SNAPSHOT.jar, rootPackageName=null), RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/1/cordapps/contracts-0.1-SNAPSHOT.jar, rootPackageName=null) {}
+[INFO ] 2019-12-05T04:41:16,442Z [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/1/cordapps/workflows-0.1-SNAPSHOT.jar {}
+[INFO ] 2019-12-05T04:41:16,524Z [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/1/cordapps/contracts-0.1-SNAPSHOT.jar {}
+[INFO ] 2019-12-05T04:41:16,565Z [Test worker] internal.InternalMockNetwork$MockNode.start - Node starting up ... {}
+[INFO ] 2019-12-05T04:41:16,659Z [Test worker] internal.NodeFlowManager.registerInitiatedFlow - Registered com.example.flows.ExampleFlow$Initiator to initiate com.example.flows.ExampleFlow$Acceptor (version 1) {}
+[INFO ] 2019-12-05T04:41:16,666Z [Test worker] internal.InternalMockNetwork$MockNode.start - Loaded network parameters: NetworkParameters {
+      minimumPlatformVersion=1
+      notaries=[NotaryInfo(identity=O=Notary Service, L=Zurich, C=CH, validating=true)]
+      maxMessageSize=10485760
+      maxTransactionSize=524288000
+      whitelistedContractImplementations {
+        
+      }
+      eventHorizon=PT720H
+      packageOwnership {
+        
+      }
+      modifiedTime=2019-12-05T04:40:41.030Z
+      epoch=1
+  } {}
+[INFO ] 2019-12-05T04:41:17,495Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Start executing... {}
+[INFO ] 2019-12-05T04:41:17,500Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Attachment version creation from whitelisted JARs using network parameters from build/mock-network/20191205-044041.053/nodes/1/network-parameters, whitelistedContractImplementations: {}. {}
+[INFO ] 2019-12-05T04:41:17,500Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Attachment version creation from whitelisted JARs skipped, no attachments not found. {}
+[INFO ] 2019-12-05T04:41:17,502Z [Test worker] migration.VaultStateMigration.execute - Migrating vault state data to V4 tables {}
+[INFO ] 2019-12-05T04:41:17,506Z [Test worker] persistence.HibernateConfiguration.<init> - Init HibernateConfiguration for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:17,507Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Creating session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:17,664Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Created session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:17,685Z [Test worker] migration.VaultStateMigration.execute - Finished performing vault state data migration for 0 states {}
+[INFO ] 2019-12-05T04:41:17,689Z [Test worker] internal.InternalMockNetwork$MockNode.invoke - Connected to H2 database. {}
+[INFO ] 2019-12-05T04:41:17,689Z [Test worker] internal.InternalMockNetwork$MockNode.obtainIdentity - identity-private-key not found in key store, generating fresh key! {}
+[INFO ] 2019-12-05T04:41:17,724Z [Test worker] persistence.HibernateConfiguration.<init> - Init HibernateConfiguration for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:17,724Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Creating session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:17,987Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Created session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:17,998Z [Test worker] internal.InternalMockNetwork$MockNode.updateNodeInfo - Node-info has changed so submitting update. Old node-info was null {}
+[INFO ] 2019-12-05T04:41:17,998Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:18,004Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:18,021Z [Test worker] internal.InternalMockNetwork$MockNode.updateNodeInfo - New node-info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:18,038Z [Test worker] network.NetworkMapUpdater.apply - Auto-accept enabled for network parameter changes which modify only: [epoch, modifiedTime, packageOwnership, whitelistedContractImplementations] {}
+[INFO ] 2019-12-05T04:41:18,046Z [MockNode-2-2] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:18,063Z [MockNode-2-2] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:18,117Z [Test worker] persistence.NodeAttachmentService.invoke - Stored new attachment: id=6E96D0A6269B2131CBE8BC9778BCB27A30D998B4205311ADFE1A862504DBED26 uploader=app filename=null {}
+[INFO ] 2019-12-05T04:41:18,137Z [Test worker] statemachine.SingleThreadedStateMachineManager.invoke - Node ready, info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:18,148Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:18,151Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:18,176Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:18,178Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:18,201Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:18,202Z [Test worker] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:18,202Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:18,202Z [Test worker] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:18,207Z [Test worker] cordapp.JarScanningCordappLoader.fromDirectories - Looking for CorDapps in [build/mock-network/20191205-044041.053/nodes/2/cordapps] {}
+[INFO ] 2019-12-05T04:41:18,208Z [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/2/cordapps/workflows-0.1-SNAPSHOT.jar, rootPackageName=null), RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/2/cordapps/contracts-0.1-SNAPSHOT.jar, rootPackageName=null) {}
+[INFO ] 2019-12-05T04:41:18,208Z [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/2/cordapps/workflows-0.1-SNAPSHOT.jar {}
+[INFO ] 2019-12-05T04:41:18,236Z [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/mock-network/20191205-044041.053/nodes/2/cordapps/contracts-0.1-SNAPSHOT.jar {}
+[INFO ] 2019-12-05T04:41:18,282Z [Test worker] internal.InternalMockNetwork$MockNode.start - Node starting up ... {}
+[INFO ] 2019-12-05T04:41:18,332Z [Test worker] internal.NodeFlowManager.registerInitiatedFlow - Registered com.example.flows.ExampleFlow$Initiator to initiate com.example.flows.ExampleFlow$Acceptor (version 1) {}
+[INFO ] 2019-12-05T04:41:18,339Z [Test worker] internal.InternalMockNetwork$MockNode.start - Loaded network parameters: NetworkParameters {
+      minimumPlatformVersion=1
+      notaries=[NotaryInfo(identity=O=Notary Service, L=Zurich, C=CH, validating=true)]
+      maxMessageSize=10485760
+      maxTransactionSize=524288000
+      whitelistedContractImplementations {
+        
+      }
+      eventHorizon=PT720H
+      packageOwnership {
+        
+      }
+      modifiedTime=2019-12-05T04:40:41.030Z
+      epoch=1
+  } {}
+[INFO ] 2019-12-05T04:41:19,126Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Start executing... {}
+[INFO ] 2019-12-05T04:41:19,130Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Attachment version creation from whitelisted JARs using network parameters from build/mock-network/20191205-044041.053/nodes/2/network-parameters, whitelistedContractImplementations: {}. {}
+[INFO ] 2019-12-05T04:41:19,130Z [Test worker] persistence.AttachmentVersionNumberMigration.execute - Attachment version creation from whitelisted JARs skipped, no attachments not found. {}
+[INFO ] 2019-12-05T04:41:19,133Z [Test worker] migration.VaultStateMigration.execute - Migrating vault state data to V4 tables {}
+[INFO ] 2019-12-05T04:41:19,137Z [Test worker] persistence.HibernateConfiguration.<init> - Init HibernateConfiguration for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:19,137Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Creating session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:19,352Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Created session factory for schemas: [VaultMigrationSchemaV1(name=net.corda.node.migration.VaultMigrationSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:19,375Z [Test worker] migration.VaultStateMigration.execute - Finished performing vault state data migration for 0 states {}
+[INFO ] 2019-12-05T04:41:19,381Z [Test worker] internal.InternalMockNetwork$MockNode.invoke - Connected to H2 database. {}
+[INFO ] 2019-12-05T04:41:19,384Z [Test worker] internal.InternalMockNetwork$MockNode.obtainIdentity - identity-private-key not found in key store, generating fresh key! {}
+[INFO ] 2019-12-05T04:41:19,422Z [Test worker] persistence.HibernateConfiguration.<init> - Init HibernateConfiguration for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:19,423Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Creating session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:19,747Z [Test worker] persistence.HibernateConfiguration.makeSessionFactoryForSchemas - Created session factory for schemas: [CommonSchemaV1(name=net.corda.core.schemas.CommonSchema, version=1), VaultSchemaV1(name=net.corda.node.services.vault.VaultSchema, version=1), NodeInfoSchemaV1(name=net.corda.node.internal.schemas.NodeInfoSchema, version=1), NodeCoreV1(name=net.corda.node.services.schema.NodeSchemaService$NodeCore, version=1), IOUSchemaV1(name=com.example.schema.IOUSchema, version=1)] {}
+[INFO ] 2019-12-05T04:41:19,755Z [Test worker] internal.InternalMockNetwork$MockNode.updateNodeInfo - Node-info has changed so submitting update. Old node-info was null {}
+[INFO ] 2019-12-05T04:41:19,756Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,760Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:19,782Z [Test worker] internal.InternalMockNetwork$MockNode.updateNodeInfo - New node-info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,796Z [Test worker] network.NetworkMapUpdater.apply - Auto-accept enabled for network parameter changes which modify only: [epoch, modifiedTime, packageOwnership, whitelistedContractImplementations] {}
+[INFO ] 2019-12-05T04:41:19,802Z [MockNode-3-2] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,821Z [MockNode-3-2] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:19,874Z [Test worker] persistence.NodeAttachmentService.invoke - Stored new attachment: id=6E96D0A6269B2131CBE8BC9778BCB27A30D998B4205311ADFE1A862504DBED26 uploader=app filename=null {}
+[INFO ] 2019-12-05T04:41:19,891Z [Test worker] statemachine.SingleThreadedStateMachineManager.invoke - Node ready, info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,898Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Notary Service, L=Zurich, C=CH], platformVersion=4, serial=1575520874682) {}
+[INFO ] 2019-12-05T04:41:19,901Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:19,921Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,923Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:19,943Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 1, L=London, C=GB], platformVersion=4, serial=1575520877998) {}
+[INFO ] 2019-12-05T04:41:19,945Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:19,965Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,968Z [Test worker] network.PersistentNetworkMapCache.addNode - No previous node found {}
+[INFO ] 2019-12-05T04:41:19,992Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,992Z [Test worker] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[INFO ] 2019-12-05T04:41:19,992Z [Test worker] network.PersistentNetworkMapCache.addNode - Adding node with info: NodeInfo(addresses=[mock.node:1000], legalIdentitiesAndCerts=[O=Mock Company 2, L=London, C=GB], platformVersion=4, serial=1575520879755) {}
+[INFO ] 2019-12-05T04:41:19,992Z [Test worker] network.PersistentNetworkMapCache.addNode - Previous node was identical to incoming one - doing nothing {}
+[WARN ] 2019-12-05T04:41:19,995Z [Test worker] internal.NodeFlowManager.registerInitiatedFlowFactory - Multiple flows are registered for InitiatingFlow: class com.example.flows.ExampleFlow$Initiator, currently using: class com.example.flows.ExampleFlow$Acceptor {}
+[INFO ] 2019-12-05T04:41:19,995Z [Test worker] internal.NodeFlowManager.registerInitiatedFlow - Registered com.example.flows.ExampleFlow$Initiator to initiate com.example.flows.ExampleFlow$Acceptor (version 1) {}
+[WARN ] 2019-12-05T04:41:20,001Z [Test worker] internal.NodeFlowManager.registerInitiatedFlowFactory - Multiple flows are registered for InitiatingFlow: class com.example.flows.ExampleFlow$Initiator, currently using: class com.example.flows.ExampleFlow$Acceptor {}
+[INFO ] 2019-12-05T04:41:20,001Z [Test worker] internal.NodeFlowManager.registerInitiatedFlow - Registered com.example.flows.ExampleFlow$Initiator to initiate com.example.flows.ExampleFlow$Acceptor (version 1) {}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ContractTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-05T04:40:41" hostname="adel-VirtualBox" time="0.001">
+  <properties/>
+  <testcase name="dummy test" classname="com.example.ContractTests" time="0.001"/>
+  <system-out><![CDATA[?[37m[INFO] 22:40:37,038 [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/generated-custom-cordapps/20191205-044034.639/custom-cordapp_1_4_c91d6fd3-60ce-4d28-81a3-71614e37d321.jar, rootPackageName=null)
+?[m?[37m[INFO] 22:40:37,277 [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/generated-custom-cordapps/20191205-044034.639/custom-cordapp_1_4_c91d6fd3-60ce-4d28-81a3-71614e37d321.jar
+?[m?[37m[INFO] 22:40:38,729 [Test worker] ClassloaderUtils.logElapsedTime - Contracts loading for '/tmp/attachment8780218797348592558.jar' took 30 msec
+?[m]]></system-out>
+  <system-err><![CDATA[QUASAR WARNING: Assertions enabled. This may harm performance.
+QUASAR WARNING: Fibers are set to verify instrumentation. This may *severely* harm performance.
+]]></system-err>
+</testsuite>

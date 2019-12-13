@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dba48824-1a84-4061-9204-8796375e7158" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_compile>
+              <task name="generateCorDappWrappers" />
+            </after_compile>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="web3j-iou" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="web3j-iou" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="web3j-iou" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="web3j" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1UPOciAsOEbp2rhpxEOcDOtx1Z0" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootcamp-cordapp" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/contracts/src/main/kotlin/com/example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WorkflowsTest.start the ExampleFlowInitiator flow">
+    <configuration name="web3j-iou [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="web3j-iou [generateCorDappWrappers]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="generateCorDappWrappers" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="WorkflowsTest.start the ExampleFlowInitiator flow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web3j-iou.clients.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.workflows.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.workflows.api" />
+      <option name="MAIN_CLASS_NAME" value="com.example.workflows.api.WorkflowsTest" />
+      <option name="METHOD_NAME" value="start the ExampleFlowInitiator flow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WorkflowsTest.start the ExampleFlowInitiator flow" />
+        <item itemvalue="Gradle.web3j-iou [generateCorDappWrappers]" />
+        <item itemvalue="Gradle.web3j-iou [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba48824-1a84-4061-9204-8796375e7158" name="Default Changelist" comment="" />
+      <created>1575254845065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575254845065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576204570983">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state x="344" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1639.822@67.27.1639.822" timestamp="1576204570983" />
+    <state x="669" y="195" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576122256152">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state x="669" y="195" width="424" height="484" key="FileChooserDialogImpl/67.27.1639.822@67.27.1639.822" timestamp="1576122256152" />
+    <state width="1639" height="75" key="GridCell.Tab.0.bottom" timestamp="1576204695909">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state width="1639" height="75" key="GridCell.Tab.0.bottom/67.27.1639.822@67.27.1639.822" timestamp="1576204695909" />
+    <state width="1639" height="75" key="GridCell.Tab.0.center" timestamp="1576204695904">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state width="1639" height="75" key="GridCell.Tab.0.center/67.27.1639.822@67.27.1639.822" timestamp="1576204695904" />
+    <state width="1639" height="75" key="GridCell.Tab.0.left" timestamp="1576204695901">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state width="1639" height="75" key="GridCell.Tab.0.left/67.27.1639.822@67.27.1639.822" timestamp="1576204695901" />
+    <state width="1639" height="75" key="GridCell.Tab.0.right" timestamp="1576204695907">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state width="1639" height="75" key="GridCell.Tab.0.right/67.27.1639.822@67.27.1639.822" timestamp="1576204695907" />
+    <state x="167" y="125" width="1439" height="624" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1575258042322">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state x="167" y="125" width="1439" height="624" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/67.27.1639.822@67.27.1639.822" timestamp="1575258042322" />
+    <state x="167" y="125" width="1439" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575521942608">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state x="167" y="125" width="1439" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1639.822@67.27.1639.822" timestamp="1575521942608" />
+    <state x="531" y="173" width="710" height="528" key="find.popup" timestamp="1575954721252">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state x="531" y="173" width="710" height="528" key="find.popup/67.27.1639.822@67.27.1639.822" timestamp="1575954721252" />
+    <state x="549" y="170" width="672" height="678" key="search.everywhere.popup" timestamp="1576120472912">
+      <screen x="67" y="27" width="1639" height="822" />
+    </state>
+    <state x="549" y="170" width="672" height="678" key="search.everywhere.popup/67.27.1639.822@67.27.1639.822" timestamp="1576120472912" />
+  </component>
+</project>
