@@ -1,1 +1,1 @@
-A sample CorDapp with web3j-corda wrappers
+R3's IOU CorDapp with web3j-corda.
