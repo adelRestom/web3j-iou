@@ -1,6 +1,6 @@
 package com.example
 
-import com.example.flows.ExampleFlow.Acceptor
+import com.example.flow.ExampleFlow.Acceptor
 import net.corda.testing.node.MockNetwork
 import net.corda.testing.node.MockNetworkParameters
 import net.corda.testing.node.TestCordapp
@@ -12,8 +12,8 @@ class FlowTests {
     private val network = MockNetwork(
         MockNetworkParameters(
             cordappsForAllNodes = listOf(
-                TestCordapp.findCordapp("com.example.contracts"),
-                TestCordapp.findCordapp("com.example.flows")
+                TestCordapp.findCordapp("com.example.contract"),
+                TestCordapp.findCordapp("com.example.flow")
             )
         )
     )

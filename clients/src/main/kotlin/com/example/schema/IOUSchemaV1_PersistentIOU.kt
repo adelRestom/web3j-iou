@@ -13,7 +13,7 @@ import org.web3j.corda.model.core.schemas.PersistentStateRef
 */
 @Generated(
     value = ["org.web3j.corda.codegen.CorDappClientGenerator"],
-    date = "2019-12-05T05:09:49.095Z"
+    date = "2019-12-14T17:50:00.461Z"
 )
 data class IOUSchemaV1_PersistentIOU(
     val lenderName: kotlin.String,

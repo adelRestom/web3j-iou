@@ -196,7 +196,7 @@ task generateCorDappWrappers(type: JavaExec, group: 'web3j') {
     main = 'org.web3j.corda.console.CordaCommandMain'
     
     args 'generate', 
-        '--package-name', project.group,
+        '--package-name', "com.example.client",
         '--cordapps-dir', "$projectDir",
         '--output-dir', 'clients'
 }
