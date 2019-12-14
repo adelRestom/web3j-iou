@@ -8,6 +8,7 @@ import javax.annotation.Generated
 import org.junit.jupiter.api.Test
 import org.web3j.corda.network.network
 import org.web3j.corda.network.nodes
+import org.web3j.corda.network.notary
 import org.web3j.corda.network.party
 
 @Generated(
@@ -17,8 +18,11 @@ import org.web3j.corda.network.party
 class WorkflowsTest {
 
     private val network = network {
-        directory = File("/home/adel/articles/web3j-iou")
+        directory = File("/home/adel/corda/articles/web3j-iou")
         nodes {
+            notary {
+                name = "O=Notary, L=London, C=GB"
+            }
             party {
                 name = "O=PartyA, L=London, C=GB"
             }
