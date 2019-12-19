@@ -10,7 +10,7 @@ import org.web3j.corda.model.core.identity.Party
 */
 @Generated(
     value = ["org.web3j.corda.codegen.CorDappClientGenerator"],
-    date = "2019-12-14T17:50:00.464Z"
+    date = "2019-12-19T05:21:14.896Z"
 )
 data class ExampleFlow_InitiatorPayload(
     val iouValue: kotlin.Int,

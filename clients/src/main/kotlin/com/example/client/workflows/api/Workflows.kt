@@ -19,7 +19,7 @@ import org.web3j.corda.protocol.CordaService
  */
 @Generated(
     value = ["org.web3j.corda.codegen.CorDappClientGenerator"],
-    date = "2019-12-14T17:50:00.504Z"
+    date = "2019-12-19T05:21:15.073Z"
 )
 @Path("/api/rest/cordapps/workflows/")
 interface Workflows : CorDapp {

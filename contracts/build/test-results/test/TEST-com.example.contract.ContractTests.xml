@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.contract.ContractTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-19T05:18:30" hostname="adel-VirtualBox" time="0.001">
+  <properties/>
+  <testcase name="dummy test" classname="com.example.contract.ContractTests" time="0.001"/>
+  <system-out><![CDATA[?[37m[INFO] 23:18:28,092 [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou%20(copy)/contracts/build/generated-custom-cordapps/20191219-051825.604/custom-cordapp_1_4_1706e04e-3e1b-467a-b581-35f9db9b37e2.jar, rootPackageName=null)
+?[m?[37m[INFO] 23:18:28,154 [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou%20(copy)/contracts/build/generated-custom-cordapps/20191219-051825.604/custom-cordapp_1_4_1706e04e-3e1b-467a-b581-35f9db9b37e2.jar
+?[m?[37m[INFO] 23:18:28,650 [Test worker] ClassloaderUtils.logElapsedTime - Contracts loading for '/tmp/attachment3544495399670041067.jar' took 255 msec
+?[m]]></system-out>
+  <system-err><![CDATA[QUASAR WARNING: Assertions enabled. This may harm performance.
+QUASAR WARNING: Quasar Java Agent isn't running. If you're using another instrumentation method you can ignore this message; otherwise, please refer to the Getting Started section in the Quasar documentation.
+]]></system-err>
+</testsuite>

@@ -1,6 +1,6 @@
 package com.example.client.workflows.api
 
-import com.example.state.IOUState;
+import com.example.state.IOUState
 import generated.com.example.flow.ExampleFlow_InitiatorPayload
 import groovy.util.GroovyTestCase.assertEquals
 import java.io.File
@@ -12,8 +12,8 @@ import org.web3j.corda.network.notary
 import org.web3j.corda.network.party
 
 @Generated(
-        value = ["org.web3j.corda.codegen.CorDappClientGenerator"],
-        date = "2019-12-05T05:09:49.189Z"
+    value = ["org.web3j.corda.codegen.CorDappClientGenerator"],
+    date = "2019-12-19T05:21:15.073Z"
 )
 class WorkflowsTest {
 

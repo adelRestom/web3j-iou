@@ -1,3 +1,5 @@
+apply plugin: 'net.corda.plugins.cordapp'
+
 dependencies {
     // web3j-corda dependency
     implementation (group: 'org.web3j.corda', name: 'web3j-corda-core', version: web3j_corda_version) {
@@ -22,6 +24,9 @@ dependencies {
 
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${jupiter_version}"
     testRuntimeOnly "org.junit.vintage:junit-vintage-engine:${jupiter_version}"
+
+    // CorDapp dependencies.
+    cordaCompile project(":contracts")
 }
 
 test {

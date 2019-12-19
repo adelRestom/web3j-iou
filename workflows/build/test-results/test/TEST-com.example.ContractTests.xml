@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.ContractTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-14T17:38:00" hostname="adel-VirtualBox" time="0.0">
+<testsuite name="com.example.ContractTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-19T05:18:51" hostname="adel-VirtualBox" time="0.001">
   <properties/>
-  <testcase name="dummy test" classname="com.example.ContractTests" time="0.0"/>
-  <system-out><![CDATA[?[37m[INFO] 11:38:00,223 [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou/workflows/build/generated-custom-cordapps/20191214-173732.349/custom-cordapp_1_4_8b9ecd8e-6e57-4a61-9db3-b24d627d515d.jar, rootPackageName=null)
-?[m?[37m[INFO] 11:38:00,231 [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou/workflows/build/generated-custom-cordapps/20191214-173732.349/custom-cordapp_1_4_8b9ecd8e-6e57-4a61-9db3-b24d627d515d.jar
-?[m?[31m[WARN] 11:38:00,261 [Test worker] cordapp.CordappResolver.warnOnce - More than one CorDapp registered for contract com.example.contract.IOUContract.
-?[m?[37m[INFO] 11:38:00,277 [Test worker] ClassloaderUtils.logElapsedTime - Contracts loading for '/tmp/attachment4956882577717801975.jar' took 13 msec
+  <testcase name="dummy test" classname="com.example.ContractTests" time="0.001"/>
+  <system-out><![CDATA[?[37m[INFO] 23:18:46,470 [Test worker] cordapp.JarScanningCordappLoader.<init> - Loading CorDapps from RestrictedURL(url=file:/home/adel/corda/articles/web3j-iou%20(copy)/workflows/build/generated-custom-cordapps/20191219-051842.393/custom-cordapp_1_4_0abff280-718c-4b2a-bbb2-41b10d7dad8e.jar, rootPackageName=null)
+?[m?[37m[INFO] 23:18:46,830 [Test worker] cordapp.JarScanningCordappLoader.scanCordapp - Scanning CorDapp in file:/home/adel/corda/articles/web3j-iou%20(copy)/workflows/build/generated-custom-cordapps/20191219-051842.393/custom-cordapp_1_4_0abff280-718c-4b2a-bbb2-41b10d7dad8e.jar
+?[m?[37m[INFO] 23:18:48,709 [Test worker] ClassloaderUtils.logElapsedTime - Contracts loading for '/tmp/attachment7723504352979802548.jar' took 41 msec
 ?[m]]></system-out>
-  <system-err><![CDATA[]]></system-err>
+  <system-err><![CDATA[QUASAR WARNING: Assertions enabled. This may harm performance.
+QUASAR WARNING: Fibers are set to verify instrumentation. This may *severely* harm performance.
+]]></system-err>
 </testsuite>
