@@ -9,7 +9,7 @@ import javax.annotation.Generated
 */
 @Generated(
     value = ["org.web3j.corda.codegen.CorDappClientGenerator"],
-    date = "2019-12-19T05:21:14.912Z"
+    date = "2019-12-20T02:08:15.118Z"
 )
 data class LoginRequest(
     /* user name */

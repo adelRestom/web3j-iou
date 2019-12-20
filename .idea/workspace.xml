@@ -2,98 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba48824-1a84-4061-9204-8796375e7158" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clients/src/main/kotlin/generated/io/vertx/ext/auth/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/braid/server/progress/ProgressNotification.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/braid/server/rpc/LoginRequest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/corda/model/core/cordapp/CordappInfo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/corda/model/core/node/NodeDiagnosticInfo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/web3jiou01SNAPSHOTjar-classes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/web3j-iou-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/web3jioucopy01SNAPSHOTjar-classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/web3j-iou (copy)-0.1-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/clients/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/META-INF/clients.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/com/example/client/workflows/api/Workflows$Companion$load$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/com/example/client/workflows/api/Workflows$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/com/example/client/workflows/api/Workflows$FlowResource$ExampleFlowInitiator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/com/example/client/workflows/api/Workflows$FlowResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/com/example/client/workflows/api/Workflows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/com/example/schema/IOUSchemaV1_PersistentIOU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/com/example/state/IOUState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/classes/kotlin/main/generated/com/example/flow/ExampleFlow_InitiatorPayload.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/build/kotlin/clients01SNAPSHOTjar-classes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/build/libs/clients-0.1-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/production/classes/META-INF/clients.kotlin_module" beforeDir="false" />
@@ -102,9 +15,14 @@
       <change beforePath="$PROJECT_DIR$/clients/out/production/classes/com/example/client/workflows/api/Workflows$FlowResource$ExampleFlowInitiator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/production/classes/com/example/client/workflows/api/Workflows$FlowResource.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/production/classes/com/example/client/workflows/api/Workflows.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/com/example/schema/IOUSchemaV1_PersistentIOU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/com/example/state/IOUState.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/production/classes/generated/com/example/flow/ExampleFlow_InitiatorPayload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/generated/com/example/schema/IOUSchemaV1_PersistentIOU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/generated/com/example/state/IOUState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/generated/io/vertx/ext/auth/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/org/web3j/braid/server/progress/ProgressNotification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/org/web3j/braid/server/rpc/LoginRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/org/web3j/corda/model/core/cordapp/CordappInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/out/production/classes/org/web3j/corda/model/core/node/NodeDiagnosticInfo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/test/classes/META-INF/clients.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/test/classes/com/example/client/workflows/api/WorkflowsTest$network$1$1$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/test/classes/com/example/client/workflows/api/WorkflowsTest$network$1$1$2.class" beforeDir="false" />
@@ -113,9 +31,14 @@
       <change beforePath="$PROJECT_DIR$/clients/out/test/classes/com/example/client/workflows/api/WorkflowsTest$network$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/out/test/classes/com/example/client/workflows/api/WorkflowsTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/com/example/client/workflows/api/Workflows.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/com/example/client/workflows/api/Workflows.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/com/example/schema/IOUSchemaV1_PersistentIOU.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/schema/IOUSchemaV1_PersistentIOU.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/com/example/state/IOUState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/state/IOUState.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/flow/ExampleFlow_InitiatorPayload.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/flow/ExampleFlow_InitiatorPayload.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/schema/IOUSchemaV1_PersistentIOU.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/schema/IOUSchemaV1_PersistentIOU.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/state/IOUState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/generated/com/example/state/IOUState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/generated/io/vertx/ext/auth/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/generated/io/vertx/ext/auth/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/braid/server/progress/ProgressNotification.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/braid/server/progress/ProgressNotification.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/braid/server/rpc/LoginRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/braid/server/rpc/LoginRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/corda/model/core/cordapp/CordappInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/corda/model/core/cordapp/CordappInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/corda/model/core/node/NodeDiagnosticInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/main/kotlin/org/web3j/corda/model/core/node/NodeDiagnosticInfo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clients/src/test/kotlin/com/example/client/workflows/api/WorkflowsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/clients/src/test/kotlin/com/example/client/workflows/api/WorkflowsTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/classes/kotlin/main/META-INF/contracts.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/classes/kotlin/main/com/example/contract/IOUContract$Commands$Create.class" beforeDir="false" />
@@ -126,6 +49,9 @@
       <change beforePath="$PROJECT_DIR$/contracts/build/classes/kotlin/main/com/example/schema/IOUSchemaV1$PersistentIOU.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/classes/kotlin/main/com/example/schema/IOUSchemaV1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/classes/kotlin/main/com/example/state/IOUState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/classes/kotlin/test/META-INF/contracts.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/classes/kotlin/test/com/example/contract/ContractTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/generated-custom-cordapps/20191219-051825.604/custom-cordapp_1_4_1706e04e-3e1b-467a-b581-35f9db9b37e2.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
@@ -199,11 +125,86 @@
       <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/kotlin/contracts01SNAPSHOTjar-classes.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/libs/contracts-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/reports/tests/test/classes/com.example.contract.ContractTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/reports/tests/test/packages/com.example.contract.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/test-results/test/TEST-com.example.contract.ContractTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/test-results/test/binary/results.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/logs/archive/node-adel-VirtualBox.2019-12-04-1.log.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contracts/logs/node-adel-VirtualBox.log" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/logs/node-adel-VirtualBox.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/META-INF/contracts.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/contract/IOUContract$Commands$Create.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/contract/IOUContract$Commands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/contract/IOUContract$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/contract/IOUContract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/schema/IOUSchema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/schema/IOUSchemaV1$PersistentIOU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/schema/IOUSchemaV1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/out/production/classes/com/example/state/IOUState.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/classes/kotlin/main/META-INF/workflows.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/classes/kotlin/main/com/example/flow/ExampleFlow$Acceptor$call$signTransactionFlow$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/classes/kotlin/main/com/example/flow/ExampleFlow$Acceptor.class" beforeDir="false" />
@@ -220,8 +221,7 @@
       <change beforePath="$PROJECT_DIR$/workflows/build/classes/kotlin/test/com/example/FlowTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/classes/kotlin/test/com/example/NodeDriverKt$main$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/classes/kotlin/test/com/example/NodeDriverKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/generated-custom-cordapps/20191214-173451.139/custom-cordapp_1_4_889020c5-c783-4db4-8155-8e342d6cb123.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/generated-custom-cordapps/20191214-173732.349/custom-cordapp_1_4_8b9ecd8e-6e57-4a61-9db3-b24d627d515d.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/generated-custom-cordapps/20191219-051842.393/custom-cordapp_1_4_0abff280-718c-4b2a-bbb2-41b10d7dad8e.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
@@ -361,38 +361,36 @@
       <change beforePath="$PROJECT_DIR$/workflows/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/kotlin/workflows01SNAPSHOTjar-classes.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/libs/workflows-0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173455.818/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173455.818/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/certificates/truststore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/cordapps/config/contracts-0.1-SNAPSHOT.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/cordapps/config/workflows-0.1-SNAPSHOT.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/cordapps/contracts-0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/cordapps/workflows-0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/network-parameters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/certificates/truststore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/cordapps/config/contracts-0.1-SNAPSHOT.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/cordapps/config/workflows-0.1-SNAPSHOT.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/cordapps/contracts-0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/cordapps/workflows-0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/network-parameters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/certificates/truststore.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/cordapps/config/contracts-0.1-SNAPSHOT.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/cordapps/config/workflows-0.1-SNAPSHOT.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/cordapps/contracts-0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/cordapps/workflows-0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/network-parameters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191214-173731.800/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/cordapps/config/contracts-0.1-SNAPSHOT.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/cordapps/config/workflows-0.1-SNAPSHOT.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/cordapps/contracts-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/cordapps/workflows-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/cordapps/config/contracts-0.1-SNAPSHOT.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/cordapps/config/workflows-0.1-SNAPSHOT.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/cordapps/contracts-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/cordapps/workflows-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/cordapps/config/contracts-0.1-SNAPSHOT.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/cordapps/config/workflows-0.1-SNAPSHOT.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/cordapps/contracts-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/cordapps/workflows-0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20191219-051851.140/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/classes/com.example.ContractTests.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/classes/com.example.FlowTests.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/css/base-style.css" beforeDir="false" />
@@ -433,22 +431,16 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="web3j-iou (copy)" type="f1a62948:ProjectNode" />
+                <item name="web3j-iou" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="web3j-iou (copy)" type="f1a62948:ProjectNode" />
+                <item name="web3j-iou" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="web3j-iou (copy)" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="web3j-iou (copy)" type="f1a62948:ProjectNode" />
+                <item name="web3j-iou" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="web3j" type="c8890929:TasksNode$1" />
               </path>
@@ -481,7 +473,7 @@
       <recent name="$PROJECT_DIR$/contracts/src/main/kotlin/com/example" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.WorkflowsTest.start the ExampleFlowInitiator flow">
     <configuration name="web3j-iou [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -520,12 +512,30 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="WorkflowsTest.start the ExampleFlowInitiator flow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web3j-iou.clients.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.client.workflows.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.client.workflows.api" />
+      <option name="MAIN_CLASS_NAME" value="com.example.client.workflows.api.WorkflowsTest" />
+      <option name="METHOD_NAME" value="start the ExampleFlowInitiator flow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Gradle.web3j-iou [build]" />
       <item itemvalue="Gradle.web3j-iou [generateCorDappWrappers]" />
+      <item itemvalue="JUnit.WorkflowsTest.start the ExampleFlowInitiator flow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WorkflowsTest.start the ExampleFlowInitiator flow" />
         <item itemvalue="Gradle.web3j-iou [generateCorDappWrappers]" />
         <item itemvalue="Gradle.web3j-iou [build]" />
       </list>
@@ -572,26 +582,26 @@
       <screen x="67" y="27" width="1639" height="822" />
     </state>
     <state x="669" y="195" width="424" height="484" key="FileChooserDialogImpl/67.27.1639.822@67.27.1639.822" timestamp="1576551431034" />
-    <state width="1639" height="325" key="GridCell.Tab.0.bottom" timestamp="1576734050293">
+    <state width="1639" height="273" key="GridCell.Tab.0.bottom" timestamp="1576812777864">
       <screen x="67" y="27" width="1639" height="822" />
     </state>
-    <state width="1639" height="325" key="GridCell.Tab.0.bottom/67.27.1639.822@67.27.1639.822" timestamp="1576734050293" />
-    <state width="2493" height="314" key="GridCell.Tab.0.bottom/67.27.2493.1326@67.27.2493.1326" timestamp="1576596404692" />
-    <state width="1639" height="325" key="GridCell.Tab.0.center" timestamp="1576734050290">
+    <state width="1639" height="273" key="GridCell.Tab.0.bottom/67.27.1639.822@67.27.1639.822" timestamp="1576812777864" />
+    <state width="2493" height="226" key="GridCell.Tab.0.bottom/67.27.2493.1326@67.27.2493.1326" timestamp="1576767134871" />
+    <state width="1639" height="273" key="GridCell.Tab.0.center" timestamp="1576812777861">
       <screen x="67" y="27" width="1639" height="822" />
     </state>
-    <state width="1639" height="325" key="GridCell.Tab.0.center/67.27.1639.822@67.27.1639.822" timestamp="1576734050290" />
-    <state width="2493" height="314" key="GridCell.Tab.0.center/67.27.2493.1326@67.27.2493.1326" timestamp="1576596404690" />
-    <state width="1639" height="325" key="GridCell.Tab.0.left" timestamp="1576734050288">
+    <state width="1639" height="273" key="GridCell.Tab.0.center/67.27.1639.822@67.27.1639.822" timestamp="1576812777861" />
+    <state width="2493" height="226" key="GridCell.Tab.0.center/67.27.2493.1326@67.27.2493.1326" timestamp="1576767134870" />
+    <state width="1639" height="273" key="GridCell.Tab.0.left" timestamp="1576812777860">
       <screen x="67" y="27" width="1639" height="822" />
     </state>
-    <state width="1639" height="325" key="GridCell.Tab.0.left/67.27.1639.822@67.27.1639.822" timestamp="1576734050288" />
-    <state width="2493" height="314" key="GridCell.Tab.0.left/67.27.2493.1326@67.27.2493.1326" timestamp="1576596404689" />
-    <state width="1639" height="325" key="GridCell.Tab.0.right" timestamp="1576734050291">
+    <state width="1639" height="273" key="GridCell.Tab.0.left/67.27.1639.822@67.27.1639.822" timestamp="1576812777860" />
+    <state width="2493" height="226" key="GridCell.Tab.0.left/67.27.2493.1326@67.27.2493.1326" timestamp="1576767134870" />
+    <state width="1639" height="273" key="GridCell.Tab.0.right" timestamp="1576812777864">
       <screen x="67" y="27" width="1639" height="822" />
     </state>
-    <state width="1639" height="325" key="GridCell.Tab.0.right/67.27.1639.822@67.27.1639.822" timestamp="1576734050291" />
-    <state width="2493" height="314" key="GridCell.Tab.0.right/67.27.2493.1326@67.27.2493.1326" timestamp="1576596404692" />
+    <state width="1639" height="273" key="GridCell.Tab.0.right/67.27.1639.822@67.27.1639.822" timestamp="1576812777864" />
+    <state width="2493" height="226" key="GridCell.Tab.0.right/67.27.2493.1326@67.27.2493.1326" timestamp="1576767134871" />
     <state x="170" y="166" width="1439" height="624" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576730103643">
       <screen x="67" y="27" width="1639" height="822" />
     </state>
@@ -604,10 +614,10 @@
       <screen x="67" y="27" width="1639" height="822" />
     </state>
     <state x="531" y="173" width="710" height="528" key="find.popup/67.27.1639.822@67.27.1639.822" timestamp="1576549596859" />
-    <state x="549" y="170" width="672" height="678" key="search.everywhere.popup" timestamp="1576120472912">
+    <state x="549" y="170" width="672" height="678" key="search.everywhere.popup" timestamp="1576810203427">
       <screen x="67" y="27" width="1639" height="822" />
     </state>
-    <state x="549" y="170" width="672" height="678" key="search.everywhere.popup/67.27.1639.822@67.27.1639.822" timestamp="1576120472912" />
+    <state x="549" y="170" width="672" height="678" key="search.everywhere.popup/67.27.1639.822@67.27.1639.822" timestamp="1576810203427" />
     <state x="611" y="269" width="540" height="336" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576344588324">
       <screen x="67" y="27" width="1639" height="822" />
     </state>

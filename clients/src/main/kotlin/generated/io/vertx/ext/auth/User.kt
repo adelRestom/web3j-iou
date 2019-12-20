@@ -8,7 +8,7 @@ import javax.annotation.Generated
 */
 @Generated(
     value = ["org.web3j.corda.codegen.CorDappClientGenerator"],
-    date = "2019-12-19T05:21:14.911Z"
+    date = "2019-12-20T02:08:15.117Z"
 )
 data class User(
     val authProvider: kotlin.Any? = null
